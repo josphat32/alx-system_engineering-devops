@@ -1,1 +1,1 @@
-Script for printing current directory
+Shell, init files, variables and expansions
