@@ -1,1 +1,2 @@
-VimCrypt~03!»³"‎ß°(¶<cד_ְלL^D[b_Tּָ דFd)M¾~3-ƒ£ü«Êֲ¸Eןר=™ֽ
+#!/bin/bash
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
