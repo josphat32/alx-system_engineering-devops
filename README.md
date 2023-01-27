@@ -1,1 +1,1 @@
-Script for printing current directory
+System engineering & DevOps
